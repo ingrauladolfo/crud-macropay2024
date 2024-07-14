@@ -1,0 +1,22 @@
+{
+  "colaboradores": [
+    {
+      "id": "e5eb09e0-b194-46da-8e30-80882d439cb1",
+      "Nombre": "Juan Pérez",
+      "Correo": "juan.perez@example.com",
+      "Área": "Desarrollo",
+      "Teléfono": "555-1234",
+      "Activo": true,
+      "Sueldo": "$50000.00"
+    },
+    {
+      "id": "4eb451e7-7c28-4019-9d33-54c99787c478",
+      "Nombre": "María López",
+      "Correo": "maria.lopez@example.com",
+      "Área": "Marketing",
+      "Teléfono": "555-5678",
+      "Activo": false,
+      "Sueldo": "$45000.00"
+    }
+  ]
+}
