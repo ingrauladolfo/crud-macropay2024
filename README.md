@@ -2,10 +2,12 @@
 
 Prueba Técnica para Macropay para la posición Frontend 2024
 
+## 🛠 Tecnologías usadas
+
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height='100' />
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" height='100' />
-     <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height='100' />
+    <a href='https://react.dev/' target='_blank'> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height="50px" /> </a>
+    <a href='https://vitejs.dev/' target='_blank'> <img src="https://vitejs.dev/logo.svg" alt="Vite" height="50px" /> </a>
+    <a href='https://tailwindcss.com/docs/installation' target='_blank'> <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height="50px" /></a>
 </div>
 
 ## Instalación y Correr el Proyecto
@@ -42,5 +44,5 @@ Para poder correr la base de datos, usa el comando `npx json-server src/assets/d
 
 > [!TIP]:
 > El archivo **db.json** se va a actualizar de manera automática como si fuese una verdadera base de datos real
-
-_Creado por ING. Raúl Adolfo_
+## Author
+[Ing. Raúl Adolfo Torres Vargas](https://ingrauladolfo-portfolio.vercel.app/)
