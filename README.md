@@ -3,9 +3,9 @@
 Prueba Técnica para Macropay para la posición Frontend 2024
 
 <div align="center">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height='30px' />
-    <img src="https://vitejs.dev/logo.svg" alt="Vite" height='30px' />
-     <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height='30px' />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" height='100' />
+    <img src="https://vitejs.dev/logo.svg" alt="Vite" height='100' />
+     <img src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" alt="Tailwind CSS" height='100' />
 </div>
 
 ## Instalación y Correr el Proyecto
